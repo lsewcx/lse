@@ -20,7 +20,9 @@ layout: homepage
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
+## 最新动态
 
+- **[2024年7月1日]** 入职Appen
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
