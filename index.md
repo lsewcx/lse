@@ -8,9 +8,11 @@ layout: homepage
 
 ## 研究方向
 
-- **计算机视觉:** 目标检测、语义分割
+- **计算机视觉:** 目标检测、语义分割、OpenCV
 - **前端开发:** Vue、React、Uniapp
 - **后端开发:** springboot、springcloud
+- **深度学习:** Pytorch ONNX Cuda
+- **运维:** Linux Nginx Docker
 
 ## 获奖经历
 
