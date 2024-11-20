@@ -39,7 +39,7 @@ layout: homepage
 
 ## 最新动态
 
-- **[2024年7月1日]** 入职Appen
+- **[2024年7月1日]** 入职Appen(无锡)软件开发实习生
 
 {% include_relative _includes/publications.md %}
 
