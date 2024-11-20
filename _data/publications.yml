@@ -19,4 +19,4 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ../resources/1280x1280.JPEG
+    image: ./resources/1280x1280.JPEG
